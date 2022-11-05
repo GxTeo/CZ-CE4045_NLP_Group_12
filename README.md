@@ -4,7 +4,7 @@
 1. Navigate to the project root directory "CZ-CE4045_NLP_Group_12/"
 
 2. Install dependencies in listed in Pipfile using <b>pipenv</b> and activate virtual environment.
-<pre><code> pipenv shell <br> pipenv install </code></pre>
+<pre><code> pipenv shell <br></br> pipenv install </code></pre>
 
 3. Run "jupyter notebook" and open "group12_sentiment_app.ipynb"
 <pre><code>jupyter notebook</code></pre>
