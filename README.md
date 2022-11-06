@@ -3,7 +3,7 @@
 ## Sentiment Application Installation Guide
 1. Navigate to the project root directory "CZ-CE4045_NLP_Group_12/"
 
-2. Install dependencies in listed in Pipfile using <b>pipenv</b> and activate virtual environment.
+2. Install dependencies listed in Pipfile using <b>pipenv</b> and activate virtual environment.
 ```
 pipenv shell # activate virtual environment
 pipenv install # install dependencies in virtual environment
